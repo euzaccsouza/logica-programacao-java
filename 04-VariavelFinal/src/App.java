@@ -1,11 +1,11 @@
 public class App {
     public static void main(String[] args) throws Exception {
          /* Sintaxe da Variavel Final:
-           <final> + <tipoDaConstante> + <NOME_DA_CONSANTE> 
+           <final> + <tipo> + <nomeDaVariavel>
 
+            final = identificador que é uma variavel final;
             tipo = tipo de dado primário;
-            identificador = nome (identificador) da constante;
-            literal = literal que atribui informação à constante.
+            nomeDaVariavel = nome (identificador) da variavel final;
         */
 
         // Exemplo
