@@ -11,6 +11,9 @@ public class App {
         Integer obj2 = valorHex; // Sendo convertido automaticamente pelo autoboxing do java
         System.out.println(obj2);
 
-        //OBS: Autoboxing é o processo automático de conversão de tipos no java.
+        /*
+         *  Autoboxing é o processo automático de conversão de tipos primitivo
+         *  em suas classes Wrappers correspondentes no Java.
+        */
     }
 }
