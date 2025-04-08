@@ -51,7 +51,7 @@ public class ListaExercicios {
     // a) Leia dois números e mostre a soma, diferença, produto e divisão entre eles.
     // b) Leia um valor double, converta para um wrapper Double e exiba seu valor.
     // c) Leia um caractere, converta para um wrapper Character e exiba seu código Unicode.
-    // d) Leia uma string e converta para um wrapper String e mostre o comprimento.
+    // d) Ler um Wrapper String e mostre o comprimento.
     // e) Leia um número decimal e converta para um wrapper Float.
 
     // 8. Aplicação Prática
