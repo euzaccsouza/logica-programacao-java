@@ -18,6 +18,14 @@ public class App {
          *  /=  ->  Atribuição Divisiva ou de Divisão
          *  %=  ->  Atribuição de Módulo
          *  
+         *  Operadores Relacionais
+         * 
+         *  >   -> Maior
+         *  <   -> Menor
+         *  >=  -> Maior ou Igual
+         *  >=  -> Menor ou Igual
+         *  ==  -> Igualdade
+         *  !=  -> Diferença
         */
         
     }
