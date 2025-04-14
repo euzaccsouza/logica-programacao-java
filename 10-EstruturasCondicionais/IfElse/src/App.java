@@ -1,19 +1,20 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        // Sintaxe da Estrutura Condicional If/Else
+        // Estrutura Condicional Dupla If/Else -> Sintaxe
 
-        // Entre os parênteses deverá ir a condição a ser verififada.
+        /*  
+         *  Entre parênteses estará a condição a ser verificada,
+         *  se a condição for cumprida executará o primeiro bloco de código;
+         */
         if (condition) {
             /*
-             *  Caso a condição esperada se realize, essa parte do código
-             *  será executada. 
+             *  Caso a condição esperada se realize, esse bloco de código é executado.
              * 
-             *  OBS: Caso não ele ignora essa parte e pula para a parte de baixo.
+             *  OBS: Caso não, ele ignora essa parte e executa o bloco de código abaixo.
              */
         }else{
             /*
-             * Caso a condição esperada não se realize, a parte de cima ignorada 
-             * e será executada essa parte do código.
+             *  Bloco de código.
              */
         }
     }
