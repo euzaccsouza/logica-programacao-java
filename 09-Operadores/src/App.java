@@ -26,6 +26,12 @@ public class App {
          *  >=  -> Menor ou Igual
          *  ==  -> Igualdade
          *  !=  -> Diferença
+         * 
+         *  Operadores Lógicos
+         * 
+         *  &&  ->  Operador E
+         *  ||  ->  Operador OU
+         *  !   ->  Operador NOT (Esse inverte o valor)
         */
         
     }
